@@ -19,16 +19,19 @@ Feel free to explore more of my projects in the [Projects](https://github.com/vd
 ## Professional Profiles
 
 ### LeetCode
-[LeetCode Profile](https://leetcode.com/vdh05/)
+[LeetCode Profile]([https://leetcode.com/vdh05/](https://leetcode.com/u/22it037/))
 
 ### CodeChef
-[CodeChef Profile](https://www.codechef.com/users/vdh05)
+[CodeChef Profile](https://www.codechef.com/users/harwanividhi05)
 
 ### Codeforces
-[Codeforces Profile](https://codeforces.com/profile/vdh05)
+[Codeforces Profile](https://codeforces.com/profile/Vidhi2005)
 
 ### GeeksforGeeks
-[GeeksforGeeks Profile](https://auth.geeksforgeeks.org/user/vdh05/practice/)
+[GeeksforGeeks Profile](https://www.geeksforgeeks.org/user/22it037/)
+
+### Googlecloud
+[GoogleCloud Profile](https://www.cloudskillsboost.google/public_profiles/308bf81a-b185-4d02-b7c2-371485af57a1)
 
 ## Get in Touch
 
