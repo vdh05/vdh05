@@ -17,6 +17,7 @@ Here are a few highlights from my portfolio:
 Feel free to explore more of my projects in the [Projects](https://github.com/vdh05?tab=repositories) tab!
 
 ## Professional Profiles
+![code](code.jpg)
 
 ### LeetCode
 [LeetCode Profile](https://leetcode.com/u/22it037/)
