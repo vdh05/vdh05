@@ -19,7 +19,7 @@ Feel free to explore more of my projects in the [Projects](https://github.com/vd
 ## Professional Profiles
 
 ### LeetCode
-[LeetCode Profile]([https://leetcode.com/vdh05/](https://leetcode.com/u/22it037/))
+[LeetCode Profile](https://leetcode.com/u/22it037/)
 
 ### CodeChef
 [CodeChef Profile](https://www.codechef.com/users/harwanividhi05)
